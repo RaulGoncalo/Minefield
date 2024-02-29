@@ -1,0 +1,1 @@
+class ExplosionExceptionModel implements Exception {}
